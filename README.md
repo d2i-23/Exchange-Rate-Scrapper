@@ -25,8 +25,11 @@ python install.py
 When the installations are complete, go to main.py and adjust these variables to your liking 
 
 **cryptoList** - dictionary that contains the exchange item and the corresponding link from google finance to scrape
+
 **minuteWait** - what is the interval of which the exchange rates are changed (ex, 10 means check every 10 minutes)
+
 **time** - to specify the timezone logged (Check https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568 for available timezone options)
+
 **fileName** - csv file where the values will be saved to
 
 ```
