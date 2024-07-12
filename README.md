@@ -5,13 +5,13 @@ This program scapes exchange values of crypto currencies from google finance.
 To start the program, create a python virtual environment as instructed from the guide: https://docs.python.org/3/library/venv.html
 
 ```
-python -m venv c:\path\to\myenv\bitScan
+python -m venv c:\path\to\myenv\Exchange-Rate-Scrapper
 ```
 
 Once the environment is inside this folder, type the following commands:
 
 ```
-cd c:\path\to\myenv\bitScan\.venv\Scripts
+cd c:\path\to\myenv\Exchange-Rate-Scrapper\.venv\Scripts
 
 activate
 ```
