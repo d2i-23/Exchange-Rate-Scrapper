@@ -32,6 +32,8 @@ When the installations are complete, go to main.py and adjust these variables to
 
 **fileName** - csv file where the values will be saved to
 
+Start the process through: 
+
 ```
 python main.py
 ```
