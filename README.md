@@ -2,6 +2,8 @@
 
 This program scapes exchange values of crypto currencies from google finance. 
 
+![image](https://github.com/user-attachments/assets/b65fd59a-88bc-43c8-9635-84733eaada69)
+
 To start the program, create a python virtual environment as instructed from the guide: https://docs.python.org/3/library/venv.html
 
 ```
